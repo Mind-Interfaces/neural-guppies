@@ -7,7 +7,6 @@ own risk. To see a brief introduction on Neural Guppies, visit the following
 links:
 
 - [YouTube Playlist](https://www.youtube.com/watch?v=tCPzYM7B338&list=PLrEmYrpTcDJZZHZP8Qz4JN9PXY6-8O1HZ)
-- [Codecall Thread](http://forum.codecall.net/topic/72637-goopies-evolving-neural-networks-wip/)
 
 Program is far from finished and can only begin Simulations from scratch
 (loading and saving simulations will be implemented soon). If you close the
@@ -16,6 +15,6 @@ simulations after putting the computer to Sleep or Hibernate, (without
 closing the simulation window) but this may not work on all systems.
 
 Main concepts tested on this program are:
-    - Artificial Neural Networks
-    - Genetic Algorithms
-    - Neuro-evolution
++ Artificial Neural Networks
++ Genetic Algorithms
++ Neuro-evolution
